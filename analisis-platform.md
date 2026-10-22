@@ -36,6 +36,3 @@ Dengan demikian, pemilihan platform harus disesuaikan dengan kebutuhan pengguna,
 
 5. Jensen, P. B. (2017). *Cross-platform desktop applications: Using Node, Electron, and NW.js*. Manning Publications. https://livebook.manning.com/book/cross-platform-desktop-applications/about-this-book
 
----
-
-**Catatan:** Referensi di atas digunakan untuk mendukung pembahasan pengembangan web, antarmuka Android, aplikasi mobile dengan Flutter, dan aplikasi desktop lintas platform. Ketersediaan akses teks lengkap bergantung pada penerbit atau repositori masing-masing.
